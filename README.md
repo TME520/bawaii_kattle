@@ -1,7 +1,7 @@
 # bawaii_kattle
 Special version of the game Kawaii Battle dedicated to tests and experiments.
 
-![Bawaii Kattle: Gameplay sample](kb.gif)
+![Bawaii Kattle: Gameplay sample](bk.gif)
 
 ## Presentation
 Bawaii Kattle is a video game for up to 2 players. Each player selects 3 characters in a roster of 20, then go on to fight each other in a turn-based fashion.
@@ -22,4 +22,4 @@ The game is played with the keyboard. Key mapping is as follows:
 
 ## Characters
 There are 20 playable characters, each with unique characteristics.
-Check the [characters index](Characters\ index.pdf) for details.
+Check the [characters index]('Characters index.pdf') for details.

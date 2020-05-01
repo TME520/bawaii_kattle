@@ -22,4 +22,4 @@ The game is played with the keyboard. Key mapping is as follows:
 
 ## Characters
 There are 20 playable characters, each with unique characteristics.
-Check the [characters index]('Characters index.pdf') for details.
+Check the ![characters index]('Characters index.pdf') for details.

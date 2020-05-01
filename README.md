@@ -3,6 +3,8 @@ Special version of the game Kawaii Battle dedicated to tests and experiments.
 
 ![Bawaii Kattle: Gameplay sample](bk.gif)
 
+**Notice**: The game currently has no sound and some features are not working.
+
 ## Presentation
 Bawaii Kattle is a video game for up to 2 players. Each player selects 3 characters in a roster of 20, then go on to fight each other in a turn-based fashion.
 
